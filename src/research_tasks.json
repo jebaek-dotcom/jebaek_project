@@ -1,0 +1,111 @@
+{
+  "company_name": "딜미",
+  "url": "https://thedealme.com",
+  "industry": "종합",
+  "timestamp": null,
+  "company_research": {
+    "description": "기업에 대한 심층 조사",
+    "tasks": [
+      {
+        "id": "company_overview",
+        "query": "딜미 기업 개요 소개",
+        "description": "기업의 설립 연도, 비전, 미션, 주요 연혁"
+      },
+      {
+        "id": "recent_news",
+        "query": "딜미 최근 3년 뉴스",
+        "description": "최근 3년간 주요 뉴스, 이벤트, 성과"
+      },
+      {
+        "id": "business_model",
+        "query": "딜미 비즈니스 모델 수익구조",
+        "description": "어떻게 돈을 버는지, 주요 제품/서비스"
+      },
+      {
+        "id": "company_size",
+        "query": "딜미 직원수 매출 규모",
+        "description": "기업 규모, 직원 수, 매출액"
+      },
+      {
+        "id": "customer_reviews",
+        "query": "딜미 고객 리뷰 평가",
+        "description": "고객 평가, 리뷰, 만족도"
+      }
+    ]
+  },
+  "market_research": {
+    "description": "업종 및 시장 조사",
+    "tasks": [
+      {
+        "id": "market_size",
+        "query": "종합 시장 규모 전망",
+        "description": "시장 규모, 성장률, 전망"
+      },
+      {
+        "id": "competitors",
+        "query": "종합 주요 기업 경쟁사",
+        "description": "업종 내 상위 5개 기업, 시장 점유율"
+      },
+      {
+        "id": "competitor_analysis",
+        "query": "종합 1위 기업 성공 요인",
+        "description": "업종 선두 기업의 성공 전략"
+      },
+      {
+        "id": "industry_trends",
+        "query": "종합 최신 트렌드 2024",
+        "description": "최신 업종 트렌드, 기술 동향"
+      },
+      {
+        "id": "pain_points",
+        "query": "종합 업종 문제점 과제",
+        "description": "업종의 공통 페인포인트, 해결 과제"
+      },
+      {
+        "id": "customer_behavior",
+        "query": "종합 고객 구매 행동 패턴",
+        "description": "고객이 어떻게 의사결정하는지"
+      }
+    ]
+  },
+  "marketing_research": {
+    "description": "온드미디어 및 마케팅 전략 조사",
+    "tasks": [
+      {
+        "id": "industry_owned_media",
+        "query": "종합 기업 블로그 마케팅 사례",
+        "description": "업종 기업들의 블로그 운영 사례"
+      },
+      {
+        "id": "industry_seo",
+        "query": "종합 SEO 콘텐츠 마케팅 전략",
+        "description": "업종의 SEO 및 콘텐츠 마케팅 전략"
+      },
+      {
+        "id": "industry_sns",
+        "query": "종합 SNS 소셜미디어 마케팅",
+        "description": "업종의 SNS 활용 사례"
+      },
+      {
+        "id": "company_blog",
+        "query": "딜미 블로그 운영",
+        "description": "딜미의 블로그 운영 현황"
+      },
+      {
+        "id": "company_sns",
+        "query": "딜미 SNS 인스타그램 페이스북",
+        "description": "딜미의 SNS 채널 운영 현황"
+      },
+      {
+        "id": "company_youtube",
+        "query": "딜미 유튜브 영상 마케팅",
+        "description": "딜미의 영상 콘텐츠 마케팅"
+      },
+      {
+        "id": "marketing_budget",
+        "query": "종합 마케팅 예산 배분 트렌드",
+        "description": "업종의 마케팅 예산 사용 패턴"
+      }
+    ]
+  }
+}
